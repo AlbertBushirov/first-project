@@ -129,10 +129,6 @@ body {
 .cards_lots {
   width: 334px;
   text-decoration: none;
-  /*при выносе двух правил сюда они перестают работать*/
-  background-position: center;
-  background-size: 334px, 563px;
-  /*при выносе двух правил сюда они перестают работать*/
   color: white;
 }
 .first_lot {
